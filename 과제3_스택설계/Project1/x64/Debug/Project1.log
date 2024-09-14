@@ -1,0 +1,93 @@
+﻿  P3.c
+C:\Users\user\OneDrive\5-1\자료구조\dataStructure_code\과제3\Project1\P3.c(46,3): warning C4033: 'pop'은(는) 값을 반환해야 합니다.
+C:\Users\user\OneDrive\5-1\자료구조\dataStructure_code\과제3\Project1\P3.c(117,8): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\OneDrive\5-1\자료구조\dataStructure_code\과제3\Project1\P3.c(118,16): error C2065: 'LARGE_INTEGER': 선언되지 않은 식별자입니다.
+C:\Users\user\OneDrive\5-1\자료구조\dataStructure_code\과제3\Project1\P3.c(118,16): error C2146: 구문 오류: ';'이(가) 'ticksPerSec' 식별자 앞에 없습니다.
+C:\Users\user\OneDrive\5-1\자료구조\dataStructure_code\과제3\Project1\P3.c(118,27): error C2065: 'ticksPerSec': 선언되지 않은 식별자입니다.
+C:\Users\user\OneDrive\5-1\자료구조\dataStructure_code\과제3\Project1\P3.c(119,16): error C2065: 'LARGE_INTEGER': 선언되지 않은 식별자입니다.
+C:\Users\user\OneDrive\5-1\자료구조\dataStructure_code\과제3\Project1\P3.c(119,16): error C2146: 구문 오류: ';'이(가) 'start' 식별자 앞에 없습니다.
+C:\Users\user\OneDrive\5-1\자료구조\dataStructure_code\과제3\Project1\P3.c(119,21): error C2065: 'start': 선언되지 않은 식별자입니다.
+C:\Users\user\OneDrive\5-1\자료구조\dataStructure_code\과제3\Project1\P3.c(119,26): error C2065: 'end': 선언되지 않은 식별자입니다.
+C:\Users\user\OneDrive\5-1\자료구조\dataStructure_code\과제3\Project1\P3.c(119,32): error C2065: 'diff': 선언되지 않은 식별자입니다.
+C:\Users\user\OneDrive\5-1\자료구조\dataStructure_code\과제3\Project1\P3.c(152,4): warning C4013: 'QueryPerformanceFrequency'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\user\OneDrive\5-1\자료구조\dataStructure_code\과제3\Project1\P3.c(152,42): error C2065: 'ticksPerSec': 선언되지 않은 식별자입니다.
+C:\Users\user\OneDrive\5-1\자료구조\dataStructure_code\과제3\Project1\P3.c(153,4): warning C4013: 'QueryPerformanceCounter'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\user\OneDrive\5-1\자료구조\dataStructure_code\과제3\Project1\P3.c(153,34): error C2065: 'start': 선언되지 않은 식별자입니다.
+C:\Users\user\OneDrive\5-1\자료구조\dataStructure_code\과제3\Project1\P3.c(155,32): error C2065: 'end': 선언되지 않은 식별자입니다.
+C:\Users\user\OneDrive\5-1\자료구조\dataStructure_code\과제3\Project1\P3.c(156,8): error C2065: 'diff': 선언되지 않은 식별자입니다.
+C:\Users\user\OneDrive\5-1\자료구조\dataStructure_code\과제3\Project1\P3.c(156,9): error C2224: '.QuadPart' 왼쪽에는 구조체/공용 구조체 형식이 있어야 합니다.
+C:\Users\user\OneDrive\5-1\자료구조\dataStructure_code\과제3\Project1\P3.c(156,23): error C2065: 'end': 선언되지 않은 식별자입니다.
+C:\Users\user\OneDrive\5-1\자료구조\dataStructure_code\과제3\Project1\P3.c(156,24): error C2224: '.QuadPart' 왼쪽에는 구조체/공용 구조체 형식이 있어야 합니다.
+C:\Users\user\OneDrive\5-1\자료구조\dataStructure_code\과제3\Project1\P3.c(156,40): error C2065: 'start': 선언되지 않은 식별자입니다.
+C:\Users\user\OneDrive\5-1\자료구조\dataStructure_code\과제3\Project1\P3.c(156,41): error C2224: '.QuadPart' 왼쪽에는 구조체/공용 구조체 형식이 있어야 합니다.
+C:\Users\user\OneDrive\5-1\자료구조\dataStructure_code\과제3\Project1\P3.c(157,67): error C2065: 'diff': 선언되지 않은 식별자입니다.
+C:\Users\user\OneDrive\5-1\자료구조\dataStructure_code\과제3\Project1\P3.c(157,68): error C2224: '.QuadPart' 왼쪽에는 구조체/공용 구조체 형식이 있어야 합니다.
+C:\Users\user\OneDrive\5-1\자료구조\dataStructure_code\과제3\Project1\P3.c(157,98): error C2065: 'ticksPerSec': 선언되지 않은 식별자입니다.
+C:\Users\user\OneDrive\5-1\자료구조\dataStructure_code\과제3\Project1\P3.c(157,99): error C2224: '.QuadPart' 왼쪽에는 구조체/공용 구조체 형식이 있어야 합니다.
+C:\Users\user\OneDrive\5-1\자료구조\dataStructure_code\과제3\Project1\P3.c(157,11): warning C4473: 'printf': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+C:\Users\user\OneDrive\5-1\자료구조\dataStructure_code\과제3\Project1\P3.c(157,11): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 3개 필요하지만 2개가 제공되었습니다.
+C:\Users\user\OneDrive\5-1\자료구조\dataStructure_code\과제3\Project1\P3.c(157,11): message : 누락된 variadic 인수 3이(가) 서식 문자열 '%.10f'에 필요합니다.
+C:\Users\user\OneDrive\5-1\자료구조\dataStructure_code\과제3\Project1\P3.c(161,42): error C2065: 'ticksPerSec': 선언되지 않은 식별자입니다.
+C:\Users\user\OneDrive\5-1\자료구조\dataStructure_code\과제3\Project1\P3.c(162,34): error C2065: 'start': 선언되지 않은 식별자입니다.
+C:\Users\user\OneDrive\5-1\자료구조\dataStructure_code\과제3\Project1\P3.c(164,32): error C2065: 'end': 선언되지 않은 식별자입니다.
+C:\Users\user\OneDrive\5-1\자료구조\dataStructure_code\과제3\Project1\P3.c(165,8): error C2065: 'diff': 선언되지 않은 식별자입니다.
+C:\Users\user\OneDrive\5-1\자료구조\dataStructure_code\과제3\Project1\P3.c(165,9): error C2224: '.QuadPart' 왼쪽에는 구조체/공용 구조체 형식이 있어야 합니다.
+C:\Users\user\OneDrive\5-1\자료구조\dataStructure_code\과제3\Project1\P3.c(165,23): error C2065: 'end': 선언되지 않은 식별자입니다.
+C:\Users\user\OneDrive\5-1\자료구조\dataStructure_code\과제3\Project1\P3.c(165,24): error C2224: '.QuadPart' 왼쪽에는 구조체/공용 구조체 형식이 있어야 합니다.
+C:\Users\user\OneDrive\5-1\자료구조\dataStructure_code\과제3\Project1\P3.c(165,40): error C2065: 'start': 선언되지 않은 식별자입니다.
+C:\Users\user\OneDrive\5-1\자료구조\dataStructure_code\과제3\Project1\P3.c(165,41): error C2224: '.QuadPart' 왼쪽에는 구조체/공용 구조체 형식이 있어야 합니다.
+C:\Users\user\OneDrive\5-1\자료구조\dataStructure_code\과제3\Project1\P3.c(166,66): error C2065: 'diff': 선언되지 않은 식별자입니다.
+C:\Users\user\OneDrive\5-1\자료구조\dataStructure_code\과제3\Project1\P3.c(166,67): error C2224: '.QuadPart' 왼쪽에는 구조체/공용 구조체 형식이 있어야 합니다.
+C:\Users\user\OneDrive\5-1\자료구조\dataStructure_code\과제3\Project1\P3.c(166,97): error C2065: 'ticksPerSec': 선언되지 않은 식별자입니다.
+C:\Users\user\OneDrive\5-1\자료구조\dataStructure_code\과제3\Project1\P3.c(166,98): error C2224: '.QuadPart' 왼쪽에는 구조체/공용 구조체 형식이 있어야 합니다.
+C:\Users\user\OneDrive\5-1\자료구조\dataStructure_code\과제3\Project1\P3.c(166,11): warning C4473: 'printf': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+C:\Users\user\OneDrive\5-1\자료구조\dataStructure_code\과제3\Project1\P3.c(166,11): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 2개 필요하지만 1개가 제공되었습니다.
+C:\Users\user\OneDrive\5-1\자료구조\dataStructure_code\과제3\Project1\P3.c(166,11): message : 누락된 variadic 인수 2이(가) 서식 문자열 '%.10f'에 필요합니다.
+C:\Users\user\OneDrive\5-1\자료구조\dataStructure_code\과제3\Project1\P3.c(171,42): error C2065: 'ticksPerSec': 선언되지 않은 식별자입니다.
+C:\Users\user\OneDrive\5-1\자료구조\dataStructure_code\과제3\Project1\P3.c(172,34): error C2065: 'start': 선언되지 않은 식별자입니다.
+C:\Users\user\OneDrive\5-1\자료구조\dataStructure_code\과제3\Project1\P3.c(174,32): error C2065: 'end': 선언되지 않은 식별자입니다.
+C:\Users\user\OneDrive\5-1\자료구조\dataStructure_code\과제3\Project1\P3.c(175,8): error C2065: 'diff': 선언되지 않은 식별자입니다.
+C:\Users\user\OneDrive\5-1\자료구조\dataStructure_code\과제3\Project1\P3.c(175,9): error C2224: '.QuadPart' 왼쪽에는 구조체/공용 구조체 형식이 있어야 합니다.
+C:\Users\user\OneDrive\5-1\자료구조\dataStructure_code\과제3\Project1\P3.c(175,23): error C2065: 'end': 선언되지 않은 식별자입니다.
+C:\Users\user\OneDrive\5-1\자료구조\dataStructure_code\과제3\Project1\P3.c(175,24): error C2224: '.QuadPart' 왼쪽에는 구조체/공용 구조체 형식이 있어야 합니다.
+C:\Users\user\OneDrive\5-1\자료구조\dataStructure_code\과제3\Project1\P3.c(175,40): error C2065: 'start': 선언되지 않은 식별자입니다.
+C:\Users\user\OneDrive\5-1\자료구조\dataStructure_code\과제3\Project1\P3.c(175,41): error C2224: '.QuadPart' 왼쪽에는 구조체/공용 구조체 형식이 있어야 합니다.
+C:\Users\user\OneDrive\5-1\자료구조\dataStructure_code\과제3\Project1\P3.c(176,66): error C2065: 'diff': 선언되지 않은 식별자입니다.
+C:\Users\user\OneDrive\5-1\자료구조\dataStructure_code\과제3\Project1\P3.c(176,67): error C2224: '.QuadPart' 왼쪽에는 구조체/공용 구조체 형식이 있어야 합니다.
+C:\Users\user\OneDrive\5-1\자료구조\dataStructure_code\과제3\Project1\P3.c(176,97): error C2065: 'ticksPerSec': 선언되지 않은 식별자입니다.
+C:\Users\user\OneDrive\5-1\자료구조\dataStructure_code\과제3\Project1\P3.c(176,98): error C2224: '.QuadPart' 왼쪽에는 구조체/공용 구조체 형식이 있어야 합니다.
+C:\Users\user\OneDrive\5-1\자료구조\dataStructure_code\과제3\Project1\P3.c(176,11): warning C4473: 'printf': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+C:\Users\user\OneDrive\5-1\자료구조\dataStructure_code\과제3\Project1\P3.c(176,11): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 3개 필요하지만 2개가 제공되었습니다.
+C:\Users\user\OneDrive\5-1\자료구조\dataStructure_code\과제3\Project1\P3.c(176,11): message : 누락된 variadic 인수 3이(가) 서식 문자열 '%.10f'에 필요합니다.
+C:\Users\user\OneDrive\5-1\자료구조\dataStructure_code\과제3\Project1\P3.c(181,42): error C2065: 'ticksPerSec': 선언되지 않은 식별자입니다.
+C:\Users\user\OneDrive\5-1\자료구조\dataStructure_code\과제3\Project1\P3.c(182,34): error C2065: 'start': 선언되지 않은 식별자입니다.
+C:\Users\user\OneDrive\5-1\자료구조\dataStructure_code\과제3\Project1\P3.c(184,32): error C2065: 'end': 선언되지 않은 식별자입니다.
+C:\Users\user\OneDrive\5-1\자료구조\dataStructure_code\과제3\Project1\P3.c(185,8): error C2065: 'diff': 선언되지 않은 식별자입니다.
+C:\Users\user\OneDrive\5-1\자료구조\dataStructure_code\과제3\Project1\P3.c(185,9): error C2224: '.QuadPart' 왼쪽에는 구조체/공용 구조체 형식이 있어야 합니다.
+C:\Users\user\OneDrive\5-1\자료구조\dataStructure_code\과제3\Project1\P3.c(185,23): error C2065: 'end': 선언되지 않은 식별자입니다.
+C:\Users\user\OneDrive\5-1\자료구조\dataStructure_code\과제3\Project1\P3.c(185,24): error C2224: '.QuadPart' 왼쪽에는 구조체/공용 구조체 형식이 있어야 합니다.
+C:\Users\user\OneDrive\5-1\자료구조\dataStructure_code\과제3\Project1\P3.c(185,40): error C2065: 'start': 선언되지 않은 식별자입니다.
+C:\Users\user\OneDrive\5-1\자료구조\dataStructure_code\과제3\Project1\P3.c(185,41): error C2224: '.QuadPart' 왼쪽에는 구조체/공용 구조체 형식이 있어야 합니다.
+C:\Users\user\OneDrive\5-1\자료구조\dataStructure_code\과제3\Project1\P3.c(186,65): error C2065: 'diff': 선언되지 않은 식별자입니다.
+C:\Users\user\OneDrive\5-1\자료구조\dataStructure_code\과제3\Project1\P3.c(186,66): error C2224: '.QuadPart' 왼쪽에는 구조체/공용 구조체 형식이 있어야 합니다.
+C:\Users\user\OneDrive\5-1\자료구조\dataStructure_code\과제3\Project1\P3.c(186,96): error C2065: 'ticksPerSec': 선언되지 않은 식별자입니다.
+C:\Users\user\OneDrive\5-1\자료구조\dataStructure_code\과제3\Project1\P3.c(186,97): error C2224: '.QuadPart' 왼쪽에는 구조체/공용 구조체 형식이 있어야 합니다.
+C:\Users\user\OneDrive\5-1\자료구조\dataStructure_code\과제3\Project1\P3.c(186,11): warning C4473: 'printf': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+C:\Users\user\OneDrive\5-1\자료구조\dataStructure_code\과제3\Project1\P3.c(186,11): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 2개 필요하지만 1개가 제공되었습니다.
+C:\Users\user\OneDrive\5-1\자료구조\dataStructure_code\과제3\Project1\P3.c(186,11): message : 누락된 variadic 인수 2이(가) 서식 문자열 '%.10f'에 필요합니다.
+C:\Users\user\OneDrive\5-1\자료구조\dataStructure_code\과제3\Project1\P3.c(190,42): error C2065: 'ticksPerSec': 선언되지 않은 식별자입니다.
+C:\Users\user\OneDrive\5-1\자료구조\dataStructure_code\과제3\Project1\P3.c(191,34): error C2065: 'start': 선언되지 않은 식별자입니다.
+C:\Users\user\OneDrive\5-1\자료구조\dataStructure_code\과제3\Project1\P3.c(193,32): error C2065: 'end': 선언되지 않은 식별자입니다.
+C:\Users\user\OneDrive\5-1\자료구조\dataStructure_code\과제3\Project1\P3.c(194,8): error C2065: 'diff': 선언되지 않은 식별자입니다.
+C:\Users\user\OneDrive\5-1\자료구조\dataStructure_code\과제3\Project1\P3.c(194,9): error C2224: '.QuadPart' 왼쪽에는 구조체/공용 구조체 형식이 있어야 합니다.
+C:\Users\user\OneDrive\5-1\자료구조\dataStructure_code\과제3\Project1\P3.c(194,23): error C2065: 'end': 선언되지 않은 식별자입니다.
+C:\Users\user\OneDrive\5-1\자료구조\dataStructure_code\과제3\Project1\P3.c(194,24): error C2224: '.QuadPart' 왼쪽에는 구조체/공용 구조체 형식이 있어야 합니다.
+C:\Users\user\OneDrive\5-1\자료구조\dataStructure_code\과제3\Project1\P3.c(194,40): error C2065: 'start': 선언되지 않은 식별자입니다.
+C:\Users\user\OneDrive\5-1\자료구조\dataStructure_code\과제3\Project1\P3.c(194,41): error C2224: '.QuadPart' 왼쪽에는 구조체/공용 구조체 형식이 있어야 합니다.
+C:\Users\user\OneDrive\5-1\자료구조\dataStructure_code\과제3\Project1\P3.c(195,66): error C2065: 'diff': 선언되지 않은 식별자입니다.
+C:\Users\user\OneDrive\5-1\자료구조\dataStructure_code\과제3\Project1\P3.c(195,67): error C2224: '.QuadPart' 왼쪽에는 구조체/공용 구조체 형식이 있어야 합니다.
+C:\Users\user\OneDrive\5-1\자료구조\dataStructure_code\과제3\Project1\P3.c(195,97): error C2065: 'ticksPerSec': 선언되지 않은 식별자입니다.
+C:\Users\user\OneDrive\5-1\자료구조\dataStructure_code\과제3\Project1\P3.c(195,98): error C2224: '.QuadPart' 왼쪽에는 구조체/공용 구조체 형식이 있어야 합니다.
+C:\Users\user\OneDrive\5-1\자료구조\dataStructure_code\과제3\Project1\P3.c(195,11): warning C4473: 'printf': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+C:\Users\user\OneDrive\5-1\자료구조\dataStructure_code\과제3\Project1\P3.c(195,11): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 3개 필요하지만 2개가 제공되었습니다.
+C:\Users\user\OneDrive\5-1\자료구조\dataStructure_code\과제3\Project1\P3.c(195,11): message : 누락된 variadic 인수 3이(가) 서식 문자열 '%.10f'에 필요합니다.
